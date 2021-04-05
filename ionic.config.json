@@ -1,0 +1,7 @@
+{
+  "name": "cap3rc-vue-appflow",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
